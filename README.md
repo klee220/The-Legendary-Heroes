@@ -1,6 +1,6 @@
 # CS 100 Programming Project
 ## To large to upload to git
-download of the repo here
+Link to repo here:
   https://mega.nz/folder/WTIRmKra#ICKPAaNiTEzpEkubSbCh0w
 
 ## Project details
