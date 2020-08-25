@@ -19,7 +19,7 @@ Tools: The team will use Unreal Engine, a game engine, as it uses C++ script, an
 I/O: Input will be keyboard inputs "a", "s", and the directional keys. Output will be as follows: "a" accepts, "s" will cancel, and directional keys will give movement to the character.
 
 ## UML Diagram for project
-Image of uml diagram
+![Image of uml diagram](/uml-diagram.png)
 
 ## UML description
 In our game, we will be using three design patterns: visitor, decorator, and abstract factory.
